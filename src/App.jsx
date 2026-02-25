@@ -12,7 +12,7 @@ import Experience from './sections/Experience';
 import Projects from './sections/Projects';
 import Hackathon from './sections/Hackathon';
 import Certifications from './sections/Certifications';
-import Contact from './sections/Contact';
+import Contact from './sections/Contact'; 
 
 function App() {
   return (
